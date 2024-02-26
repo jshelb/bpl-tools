@@ -1,0 +1,11 @@
+# Ignore virtual environment
+bpl-env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore scratch.py
+scratch.py
